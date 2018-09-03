@@ -10,4 +10,8 @@
 1.更新了背景图片的接口地址<br>
 2.增加了微小说<br>
 3.更改了数据接口<br>
-4.优化了seo
+4.优化了seo<br>
+
+## 如果喜欢，欢迎捐赠
+![](https://meiriyikan.cn/images/wx.png)
+![](https://meiriyikan.cn/images/zfb.png)
