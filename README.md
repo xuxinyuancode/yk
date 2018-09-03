@@ -3,7 +3,8 @@
 **演示地址** [Demo](http://meiriyikan.cn/)
 
 **接口地址 https://meiriyikan.cn/api/json.php**
-注意以往的 https://meiriyikan.cn/api/json.txt已不再使用
+\n
+注意以往的 https://meiriyikan.cn/api/json.txt 已不再使用
 
 ## 2.5
 1.更新了背景图片的接口地址
