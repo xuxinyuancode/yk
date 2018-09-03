@@ -4,7 +4,7 @@
 
 **接口地址 https://meiriyikan.cn/api/json.php**
 <br><br><br>
-注意以往的 https://meiriyikan.cn/api/json.txt 已不再使用
+* 注意：以往的 https://meiriyikan.cn/api/json.txt 已不再使用
 
 ## 2.5
 1.更新了背景图片的接口地址
