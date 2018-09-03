@@ -1,11 +1,3 @@
-				<?php
-				  $code = file_get_contents("db/date.txt");
-				  $file_path = "db_wk/".$code.".txt";
-				  $str = file_get_contents($file_path);
-				  $kong=array("","　","\t","\n","\r");
-				  $str=str_replace($kong, '', $str);  
-				 $web =  json_decode($str);  
-				 ?>
 <!DOCTYPE HTML>
 
 <html>
