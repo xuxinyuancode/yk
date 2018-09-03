@@ -13,5 +13,4 @@
 4.优化了seo<br>
 
 ## 如果喜欢，欢迎捐赠
-![](https://meiriyikan.cn/images/wx.png)
-![](https://meiriyikan.cn/images/zfb.png)
+[![](/images/jz.png "捐赠")][jz]
